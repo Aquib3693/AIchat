@@ -1,0 +1,27 @@
+.plugin-card {
+  background-color: #1f1f1f;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  max-width: 90%;
+  margin: 8px 0;
+  font-size: 15px;
+  color: #e0e0e0;
+  animation: fadeIn 0.3s ease;
+}
+
+.plugin-card h4 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #90caf9;
+}
+
+.plugin-card ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.plugin-card li {
+  margin-bottom: 4px;
+}
